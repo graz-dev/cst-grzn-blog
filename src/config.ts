@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://casto-graziano.me/", // replace this with your deployed domain
   author: "Graziano Casto",
   desc: "My personal tech blog",
   title: "Graziano Casto",
@@ -10,7 +10,7 @@ export const SITE: Site = {
   postPerPage: 3,
 };
 
-export const LOCALE = ["en-EN"]; // set to [] to use the environment default
+export const LOCALE = ["it-IT"]; // set to [] to use the environment default
 
 export const LOGO_IMAGE = {
   enable: false,

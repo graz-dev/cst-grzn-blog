@@ -1,6 +1,6 @@
 ---
 author: Graziano Casto
-pubDatetime: 2023-01-23T15:22:00Z
+pubDatetime: 2023-01-23T15:00:00Z
 title: "Agile vs Scrum: methodology or mindiset?"
 postSlug: agile-vs-scrum
 featured: true
@@ -15,8 +15,7 @@ description:
   other."
 ---
 
-Agile and Scrum are two commonly used terms in the software development industry, but they are often wrongly used interchangeably.
-In this article, we will explore the key differences between these two terms understanding how they relate to each other.
+Agile and Scrum are two commonly used terms in the software development industry, but they are often wrongly used interchangeably whith this article, we will explore the key differences between these two terms understanding how they relate to each other.
 
 Agile is a **mindset**, a true **"Way of Life"**, a set of values and principles that guide the way teams work together to deliver software (or any other valuable product in other industries, not belonging only to software development) incrementally and iteratively. 
 It was first introduced in 2001 through the **Agile Manifesto**, which outlines four core values:

@@ -4,7 +4,7 @@ pubDatetime: 2023-01-25T15:22:00Z
 title: "Agile and Scrum Principles: A Personal Life Management Framework"
 postSlug: scrum-as-life-management-framework
 featured: true
-draft: false
+draft: true
 tags:
   - agile
   - scrum

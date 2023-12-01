@@ -6,7 +6,7 @@ title:
   Techniques"
 postSlug: scrum-impact-on-human-psychology
 featured: true
-draft: false
+draft: true
 tags:
   - agile
   - scrum

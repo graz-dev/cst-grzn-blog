@@ -6,7 +6,7 @@ title:
   How to Overcome Them"
 postSlug: scrum-adoption-common-antipatterns
 featured: true
-draft: false
+draft: true
 tags:
   - agile
   - scrum
