@@ -4,7 +4,7 @@ pubDatetime: 2023-12-08T19:00:00Z
 title: "Cloud native 101: a beginner's guide to the basics"
 postSlug: cloud-native-basics
 featured: true
-draft: true
+draft: false
 tags:
   - cloud-native
 description: ""
@@ -19,3 +19,7 @@ In simpler terms, a "Cloud Native" architecture involves constructing software a
 As inferred from the earlier definition, **microservices** constitute the fundamental architectural principle crucial for constructing cloud-native applications. In a microservices architecture, a software application is conceptualized as a set of autonomous, business-capability-focused services. These services are developed, deployed, and often managed independently by distinct teams. Microservices operate without sharing databases, and external entities can only access data through service interfaces. Each microservice is responsible for implementing both the business logic and inter-service communication features, encompassing aspects such as resiliency and security.
 
 ![ms-architecture](../../assets/images/ms-architecture.png)
+
+Maintaining the independence and autonomy of microservices, ensuring they are self-sufficient and encapsulated, is a fundamental process in the Cloud Native landscape, and **containerization** plays a pivotal role in achieving this. Containers are an essential component for packaging and running cloud-native applications.
+A container is a live process isolated from the host operating system and other system processes. It interacts with its dedicated private filesystem, provided by a container image. The container encapsulates everything required to run an application, including the application code, its dependencies, and runtime.
+Containerization bestows portability upon your microservices, ensuring consistent execution across diverse environments. This not only enhances flexibility but also guarantees uniformity in performance regardless of the deployment environment.
