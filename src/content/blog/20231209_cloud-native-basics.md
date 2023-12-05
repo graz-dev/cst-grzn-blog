@@ -7,7 +7,8 @@ featured: true
 draft: false
 tags:
   - cloud-native
-description: "How often have you encountered the term "Cloud Native" and found yourself pondering the significance of "Native"? In this article, I aim to address this question by providing a straightforward yet comprehensive definition of Cloud Native. Delving into the fundamental concepts that underpin Cloud Native architectures, I aim to offer clarity on what it truly means to adopt a Cloud Native approach."
+description: 
+  "How often have you encountered the term "Cloud Native" and found yourself pondering the significance of "Native"? In this article, I aim to address this question by providing a straightforward yet comprehensive definition of Cloud Native. Delving into the fundamental concepts that underpin Cloud Native architectures, I aim to offer clarity on what it truly means to adopt a Cloud Native approach."
 ---
 
 Cloud Native architectures have emerged as facilitators of agility, speed, safety, and adaptability for software applications. However, the formal definition of 'cloud native' lacks uniformity, as it carries varied interpretations among different individuals. The closest comprehensive definition is provided by the Cloud Native Computing Foundation (CNCF), and it is:
