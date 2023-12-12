@@ -3,7 +3,7 @@ author: Graziano Casto
 pubDatetime: 2023-12-03T19:00:00Z
 title: "Addressing Scrum adoption anti-patterns: strategies for success"
 postSlug: scrum-adoption-common-antipatterns
-featured: true
+featured: false
 draft: false
 tags:
   - agile
