@@ -4,7 +4,7 @@ title: "About me"
 ---
 
 <div style="display: flex; align-items: center;">
-  <img src="/src//assets/me.png" class="sm:w-1/2 mx-auto" alt="Graziano">
+  <img src="/assets/me.png" class="sm:w-1/2 mx-auto" alt="Graziano">
   <p style="width: 100%"> 
     I'm a Technical Product Expert in the <strong> Developer Relations </strong> team at <strong> Mia-Platform </strong>. <br> <br> I've been in software development and innovation field since 2019, holding roles as a <strong> Software Engineer </strong> and <strong> Product Owner</strong>.
   </p>
