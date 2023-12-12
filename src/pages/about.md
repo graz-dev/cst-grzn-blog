@@ -31,3 +31,9 @@ title: "About me"
    As a software engineer, I've designed and implemented software products for the retail industry, covering applications like Point of Sale systems and e-commerce platforms. <br> I was in charge of both frontend and backend development being accountable of the whole software life cycle: from requirement analysis to production deployment.
   </p>
 </div>
+
+## Education
+
+<div style="display: flex;">
+  <p style="width: 100%"> <strong> May 2023 </strong><br> Professional Scrum Product Owner (PSPO I) <br> Scrum.org <br> <a target="_blank" href="https://www.credly.com/badges/224d95ae-d5ea-4d26-9b12-9b1bd3543ff2"> Certificate ID </a></p>  
+</div>
