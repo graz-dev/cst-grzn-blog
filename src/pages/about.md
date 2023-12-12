@@ -1,17 +1,13 @@
 ---
 layout: ../layouts/AboutLayout.astro
-title: "About"
+title: "About me"
 ---
 
-AstroPaper is a minimal, responsive and SEO-friendly Astro blog theme. I designed and crafted this based on [my personal blog](https://satnaing.dev/blog).
-
-This theme is aimed to be accessible out of the box. Light and dark mode are supported by
-default and additional color schemes can also be configured.
-
-This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
-
-<div>
-  <img src="/assets/dev.svg" class="sm:w-1/2 mx-auto" alt="coding dev illustration">
+<div style="display: flex">
+  <img src="/src//assets/me.png" class="sm:w-1/2 mx-auto" alt="Graziano">
+  <p style="width: 50%"> Your friendly neighborhood DevRel.
+Technical Product Expert at Mia-Platform by day, aspiring stargazer by night.
+Wandering through the landscape of cloud-native technologies with the same hunger for knowledge as if it were the first day. From coding to product owning, I'm all about agile vibes, software craftsmanship, and the magic of cloud tech. Beyond the screen, I'm a tech enthusiast, amateur photographer, and travel lover. <p>
 </div>
 
 ## Tech Stack
