@@ -9,6 +9,7 @@ tags:
   - AGILE
   - SCRUM
 description: "Examine the prevalent errors, or anti-patterns, that companies often face during the implementation of Scrum and provide suggestions to mitigate them."
+fileName: "20231203_scrum-adoption-common-antipatterns"
 ---
 
 Scrum has gained increasing popularity in recent years, with more companies aiming to enhance their capability to deliver software and projects swiftly and effectively. Despite the numerous advantages this approach presents, it comes with its set of challenges. One of the foremost challenges during implementation is the prevalence of anti-patterns or common mistakes that have the potential to jeopardize the success of the transformation process. This article delves into some of the most prevalent anti-patterns encountered by companies when embracing Scrum and provides insights into strategies for their avoidance.

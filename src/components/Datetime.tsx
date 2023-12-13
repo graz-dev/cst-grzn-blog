@@ -1,12 +1,19 @@
 import { LOCALE } from "@config";
+import ReadingTime from "./ReadingTime";
 
 export interface Props {
   datetime: string | Date;
   size?: "sm" | "lg";
   className?: string;
+  fileName: string;
 }
 
-export default function Datetime({ datetime, size = "sm", className }: Props) {
+export default function Datetime({
+  datetime,
+  fileName,
+  size = "sm",
+  className,
+}: Props) {
   return (
     <div className={`flex items-center space-x-2 opacity-80 ${className}`}>
       <svg
@@ -22,6 +29,7 @@ export default function Datetime({ datetime, size = "sm", className }: Props) {
       <span className="sr-only">Posted on:</span>
       <span className={`italic ${size === "sm" ? "text-sm" : "text-base"}`}>
         <FormattedDatetime datetime={datetime} />
+        <ReadingTime fileName={fileName} />
       </span>
     </div>
   );
@@ -45,8 +53,6 @@ const FormattedDatetime = ({ datetime }: { datetime: string | Date }) => {
     <>
       {date}
       <span aria-hidden="true"> | </span>
-      <span className="sr-only">&nbsp;at&nbsp;</span>
-      {time}
     </>
   );
 };
