@@ -6,8 +6,7 @@ postSlug: agile-vs-scrum
 featured: false
 draft: false
 tags:
-  - AGILE
-  - SCRUM
+  - AGILE PRACTICES
 description:
   "Agile and Scrum are two commonly used terms in the software development industry,
   but they are often wrongly used interchangeably. In this article, we will explore

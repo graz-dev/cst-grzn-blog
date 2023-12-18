@@ -6,8 +6,7 @@ postSlug: scrum-adoption-common-antipatterns
 featured: false
 draft: false
 tags:
-  - AGILE
-  - SCRUM
+  - AGILE PRACTICES
 description: "Examine the prevalent errors, or anti-patterns, that companies often face during the implementation of Scrum and provide suggestions to mitigate them."
 fileName: "20231203_scrum-adoption-common-antipatterns"
 ---
