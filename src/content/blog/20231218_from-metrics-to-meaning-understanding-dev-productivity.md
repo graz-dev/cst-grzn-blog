@@ -14,19 +14,19 @@ fileName: "20231218_from-metrics-to-meaning-understanding-dev-productivity"
 
 > ### TL;DR
 >
-> Challenging traditional productivity metrics in software development, we highlight the complexities posed by the creative and human-centric nature of the field. Drawing on the limitations of Scientific Management principles, we argue for a shift towards qualitative metrics that consider the multifaceted aspects of productivity in this dynamic domain, ultimately advocating for a holistic approach that values creativity and humanity over rigid quantitative measurements.
+> Challenging traditional productivity metrics in software development, I highlight the complexities posed by the creative and human-centric nature of the field. Drawing on the limitations of Scientific Management principles, I argue for a shift towards qualitative metrics that consider the multifaceted aspects of productivity in this dynamic domain, ultimately advocating for a holistic approach that values creativity and humanity over rigid quantitative measurements.
 
 Often, adopting a tool or framework leads to the expectation of assessing a single metric indicating whether our team's productivity has increased or decreased. Unfortunately, it's not that simple; software engineering is an extremely complex and uncertain activity. The entire discussion around developers' productivity can be summarized by two main points that differentiate software development activity from all others.
 
 ## Software development is a complex and creative handavor
 
-The very essence of engineering implies a creative effort directed at finding innovative solutions to complex problems. While not all problems are intricate, and not all solutions are groundbreaking, applying known solutions to easily resolved issues falls outside the realm of engineering.
+The very essence of engineering implies a creative effort directed at finding innovative solutions to complex problems. While not all problems are intricate, and not all solutions are innovative, applying known solutions to easily resolved issues falls outside the realm of engineering.
 
-Software engineering is neither a linear nor a predictable activity. In cases where it becomes so, it is deemed 'boilerplate,' prompting efforts to automate these tasks. This stands in stark contrast to activities like molding machine parts or coal mining, where an increase in labor often aligns with an increase in production—an occurrence not mirrored in software engineering.
+Software engineering is neither a linear nor a predictable activity. In cases where it becomes so, it is deemed 'boilerplate', prompting efforts to automate these tasks. This stands in contrast to activities like molding machine parts or coal mining, where an increase in labor often results with an increase in production—an occurrence not mirrored in software engineering.
 
-Moreover, it's crucial to acknowledge that software engineering is not algorithmic. While general processes and best practices exist, engineers adapt them to the specific problem at hand, exploring alternative paths when necessary. Additionally, the output of development activities is not always clear-cut from the start and lacks uniformity or interchangeability. After all, not all programs are equal, and not all lines of code carry the same weight.
+Moreover, it's crucial to acknowledge that software engineering is not algorithmic. While general processes and best practices exist, engineers adapt them to the specific problem, exploring alternative paths when necessary. Additionally, the output of development activities is not always clearly defined from the start and lacks uniformity or interchangeability. After all, not all programs are equal, and not all lines of code are equal.
 
-Attempts to oversimplify the concept of engineering often lead to a failure to recognize its inherent complexity—a complex system that, when underestimated, results in evaluation errors that undermine the assessment process for developers. There is a common confusion between throughput and productivity. In software development, producing more does not necessarily equate to being more productive. Unlike an industrial system like coal mining, where collecting twice the quantity leads to a 100% increase in productivity, in software engineering, writing twice the lines of code does not mean being doubly productive.
+Attempts to oversimplify the concept of engineering often lead to a failure to recognize its inherent complexity—a complex system that, when underestimated, results in evaluation errors that undermine the productivity measurement process for developers. There is a common confusion between throughput and productivity. In software development, producing more does not necessarily equate to being more productive. Unlike an industrial system like coal mining, where collecting twice the quantity leads to a 100% increase in productivity, in software engineering, writing twice the lines of code does not mean being doubly productive.
 
 Software developers engage in a significant amount of cognitive work; problem-solving activities demand effort that may not immediately translate into an objective output but is crucial for reaching the final result.
 
@@ -57,7 +57,4 @@ This approach necessitates the imposition of precise metrics for measuring indiv
 
 ### References
 
-1. F. W. Taylor, "The Principles of Scientific Management", 1911.
-2. P. F. Drucker, "Management Challenges for the 21st Century", 1999.
-3. P. Ebert and W. Freibichler, “Nudge management: Applying behavioural science to increase knowledge worker productivity”, 2017.
-4. C. Jaspan and C. Sadowski, “No single metric captures productivity”, 2019.
+1.
