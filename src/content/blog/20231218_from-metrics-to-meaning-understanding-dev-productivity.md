@@ -4,7 +4,7 @@ pubDatetime: 2023-12-18T20:00:00Z
 title: "From metrics to meaning: understanding developers productivity"
 postSlug: from-metrics-to-meaning-understanding-dev-productivity
 featured: true
-draft: true
+draft: false
 tags:
   - DEVEX
 description: "Measuring someone's productivity in the execution of a specific task is of fundamental importance for optimizing the activity itself. Productivity has always been considered in quantitative terms since the early theories of Scientific Management in 1911, but in the era of 'Knowledge Workers', these paradigms must necessarily evolve.
@@ -57,4 +57,4 @@ This approach necessitates the imposition of precise metrics for measuring indiv
 
 ### References
 
-1.
+1. C. Jaspan and C. Green, [A Human-Centered Approach to Developer Productivity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9994260&isnumber=9994072)
