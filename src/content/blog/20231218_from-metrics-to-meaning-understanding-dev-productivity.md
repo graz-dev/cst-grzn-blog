@@ -54,7 +54,3 @@ While Taylor's approach seems accurate and agreeable, a careful analysis prompts
 However, challenges arise with the third and fourth points. Decomposing a complex activity into simpler, parallelizable tasks is an engineering and organizational problem of considerable complexity, often exceeding the execution of the individual decomposed tasks. The fourth point presents a fundamental issue: nobody enjoys being confined to specific execution methods, particularly in a context like software engineering, where progress emerges through thinking and experimentation.
 
 This approach necessitates the imposition of precise metrics for measuring individual productivity, creating friction and incurring costs in terms of productivity and resources, leaving developers dissatisfied. For these reasons, the scientific management approach is not suitable for evaluating the productivity of developers and knowledge workers more broadly. To assess their productivity effectively, a shift towards qualitative metrics is necessary, considering the highly complex nature of productivity in these contexts and accepting trade-offs. Thus, a holistic evaluation, taking into account all facets, is more appropriate than a reductionist and one-dimensional approach.
-
-### References
-
-1. C. Jaspan and C. Green, [A Human-Centered Approach to Developer Productivity](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9994260&isnumber=9994072)
