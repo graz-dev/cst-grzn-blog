@@ -5,7 +5,7 @@ export const SITE: Site = {
   author: "Graziano Casto",
   desc: "Technical Product Expert @ Mia-Platform</b> by day, aspiring stargazer by night. Wandering through the landscape of cloud-native technologies with the same hunger for knowledge as if it were the first day. From coding to product management, I'm all about <b>agile vibes, software craftsmanship, and the magic of cloud technologies. Beyond the screen, I'm an amateur photographer and a travel lover.",
   title: "Graziano Casto",
-  ogImage: "casto-graziano.png",
+  ogImage: "/assets/casto-graziano.png",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
