@@ -29,7 +29,11 @@ export default function ReadingTime({ fileName }: Props) {
     const stats =
       getPost() !== undefined ? readingTime(getPost().content) : null;
     // round minutes and return as string
-    return stats !== null ? `${Math.round(stats.minutes)} min read` : "";
+    return stats !== null
+      ? `${Math.round(stats.minutes)} min read (${Math.round(
+          stats.words
+        )} words)`
+      : "";
   };
   return <span>{readTime()}</span>;
 }

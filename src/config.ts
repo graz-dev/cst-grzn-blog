@@ -3,7 +3,7 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://casto-graziano.me/", // replace this with your deployed domain
   author: "Graziano Casto",
-  desc: "Technical Product Expert @ Mia-Platform</b> by day, aspiring stargazer by night. Wandering through the landscape of cloud-native technologies with the same hunger for knowledge as if it were the first day. From coding to product management, I'm all about <b>agile vibes, software craftsmanship, and the magic of cloud technologies. Beyond the screen, I'm an amateur photographer and a travel lover.",
+  desc: "Technical Product Expert @ Mia-Platform by day, aspiring stargazer by night. Wandering through the landscape of cloud-native technologies with the same hunger for knowledge as if it were the first day. From coding to product management, I'm all about agile vibes, software craftsmanship, and the magic of cloud technologies. Beyond the screen, I'm an amateur photographer and a travel lover.",
   title: "Graziano Casto",
   ogImage: "/assets/casto-graziano.png",
   lightAndDarkMode: true,
