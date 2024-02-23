@@ -21,9 +21,9 @@ const prev = pageNum > 1 ? "" : "disabled";
 const next = pageNum < totalPages ? "" : "disabled";
 ---
 
-<Layout title={`Articles | ${SITE.title}`}>
+<Layout title={`Contents | ${SITE.title}`}>
   <Header activeNav="posts" />
-  <Main pageTitle="Articles" pageDesc="All the articles I've posted.">
+  <Main pageTitle="Contents" pageDesc="All the contents I've posted.">
     <ul>
       {
         posts.map(({ data }) => (

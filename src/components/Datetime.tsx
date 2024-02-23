@@ -6,11 +6,13 @@ export interface Props {
   size?: "sm" | "lg";
   className?: string;
   fileName: string;
+  customDuration: string;
 }
 
 export default function Datetime({
   datetime,
   fileName,
+  customDuration,
   size = "sm",
   className,
 }: Props) {
@@ -29,7 +31,7 @@ export default function Datetime({
       <span className="sr-only">Posted on:</span>
       <span className={`italic ${size === "sm" ? "text-sm" : "text-base"}`}>
         <FormattedDatetime datetime={datetime} />
-        <ReadingTime fileName={fileName} />
+        <ReadingTime fileName={fileName} customDuration={customDuration} />
       </span>
     </div>
   );

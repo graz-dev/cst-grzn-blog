@@ -1,15 +1,16 @@
 ---
 author: Graziano Casto
 pubDatetime: 2023-12-18T20:00:00Z
-title: "The fundamental missing points in evaluating engineering productivity"
+title: "[ARTICLE] The fundamental missing points in evaluating engineering productivity"
 postSlug: fundamental-missing-points-in-evaluating-engineering-productivity
 featured: true
-draft: false
+draft: true
 tags:
   - DEVEX
 description: "Measuring someone's productivity in the execution of a specific task is of fundamental importance for optimizing the activity itself. Productivity has always been considered in quantitative terms since the early theories of Scientific Management in 1911, but in the era of 'Knowledge Workers', these paradigms must necessarily evolve.
 Let's explore the aspects to consider when evaluating the developers' performance in this new productive context."
 fileName: "20231218_fundamental-missing-points-in-evaluating-engineering-productivity"
+customDuration: ""
 ogImage: "/assets/20231218-1.png"
 ---
 

@@ -1,7 +1,7 @@
 ---
 author: Graziano Casto
 pubDatetime: 2023-12-03T19:00:00Z
-title: "Addressing Scrum adoption anti-patterns: strategies for success"
+title: "[ARTICLE] Addressing Scrum adoption anti-patterns: strategies for success"
 postSlug: scrum-adoption-common-antipatterns
 featured: false
 draft: false
@@ -9,6 +9,7 @@ tags:
   - AGILE PRACTICES
 description: "Examine the prevalent errors, or anti-patterns, that companies often face during the implementation of Scrum and provide suggestions to mitigate them."
 fileName: "20231203_scrum-adoption-common-antipatterns"
+customDuration: ""
 ogImage: "/assets/20231203-1.png"
 ---
 

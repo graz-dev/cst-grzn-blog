@@ -1,9 +1,9 @@
 ---
 author: Graziano Casto
 pubDatetime: 2023-12-01T15:00:00Z
-title: "Agile vs Scrum: methodology or mindiset?"
+title: "[ARTICLE] Agile vs Scrum: methodology or mindiset?"
 postSlug: agile-vs-scrum
-featured: false
+featured: true
 draft: false
 tags:
   - AGILE PRACTICES
@@ -13,6 +13,7 @@ description:
   the key differences between these two terms understanding how they relate to each
   other."
 fileName: "20231201_agile-vs-scrum-differences"
+customDuration: ""
 ogImage: "/assets/20231201-1.png"
 ---
 
