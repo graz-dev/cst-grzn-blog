@@ -1,7 +1,8 @@
 ---
 author: Graziano Casto
 pubDatetime: 2023-12-01T15:00:00Z
-title: "[ARTICLE] Agile vs Scrum: methodology or mindiset?"
+title: "Agile vs Scrum: methodology or mindiset?"
+format: "Article"
 postSlug: agile-vs-scrum
 featured: true
 draft: false

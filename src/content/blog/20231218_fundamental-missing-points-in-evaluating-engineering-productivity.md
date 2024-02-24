@@ -1,7 +1,8 @@
 ---
 author: Graziano Casto
 pubDatetime: 2023-12-18T20:00:00Z
-title: "[ARTICLE] The fundamental missing points in evaluating engineering productivity"
+title: "The fundamental missing points in evaluating engineering productivity"
+format: "Article"
 postSlug: fundamental-missing-points-in-evaluating-engineering-productivity
 featured: true
 draft: true

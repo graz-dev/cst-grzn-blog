@@ -1,12 +1,14 @@
 import { LOCALE } from "@config";
 import ReadingTime from "./ReadingTime";
+import { formatDiagnostic } from "typescript";
 
 export interface Props {
   datetime: string | Date;
   size?: "sm" | "lg";
   className?: string;
   fileName: string;
-  customDuration: string;
+  customDuration: string | undefined;
+  format: string;
 }
 
 export default function Datetime({
@@ -15,6 +17,7 @@ export default function Datetime({
   customDuration,
   size = "sm",
   className,
+  format,
 }: Props) {
   return (
     <div className={`flex items-center space-x-2 opacity-80 ${className}`}>
@@ -25,11 +28,12 @@ export default function Datetime({
         } inline-block h-6 w-6 fill-skin-base`}
         aria-hidden="true"
       >
-        <path d="M7 11h2v2H7zm0 4h2v2H7zm4-4h2v2h-2zm0 4h2v2h-2zm4-4h2v2h-2zm0 4h2v2h-2z"></path>
-        <path d="M5 22h14c1.103 0 2-.897 2-2V6c0-1.103-.897-2-2-2h-2V2h-2v2H9V2H7v2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2zM19 8l.001 12H5V8h14z"></path>
+        <path d="M11 17h2v-6h-2v6zm1-15C6.477 2 2 6.477 2 12s4.477 10 10 10 10-4.477 10-10S17.523 2 12 2zm0 18c-4.41 0-8-3.59-8-8s3.59-8 8-8 8 3.59 8 8-3.59 8-8 8z" />
+        <circle cx="12" cy="9" r="1" />
       </svg>
       <span className="sr-only">Posted on:</span>
       <span className={`italic ${size === "sm" ? "text-sm" : "text-base"}`}>
+        <Format format={format} />
         <FormattedDatetime datetime={datetime} />
         <ReadingTime fileName={fileName} customDuration={customDuration} />
       </span>
@@ -54,6 +58,15 @@ const FormattedDatetime = ({ datetime }: { datetime: string | Date }) => {
   return (
     <>
       {date}
+      <span aria-hidden="true"> | </span>
+    </>
+  );
+};
+
+const Format = ({ format }: { format: string }) => {
+  return (
+    <>
+      {format}
       <span aria-hidden="true"> | </span>
     </>
   );

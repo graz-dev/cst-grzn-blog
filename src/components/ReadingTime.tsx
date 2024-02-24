@@ -4,7 +4,7 @@ import path from "path";
 import readingTime from "reading-time";
 export interface Props {
   fileName: string;
-  customDuration: string;
+  customDuration: string | undefined;
 }
 
 export default function ReadingTime({ fileName, customDuration }: Props) {

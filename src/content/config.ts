@@ -8,7 +8,9 @@ const blog = defineCollection({
       author: z.string().default(SITE.author),
       pubDatetime: z.date(),
       title: z.string(),
+      format: z.string(),
       postSlug: z.string().optional(),
+      externalUrl: z.string().optional(),
       featured: z.boolean().optional(),
       draft: z.boolean().optional(),
       tags: z.array(z.string()).default(["others"]),
@@ -20,7 +22,7 @@ const blog = defineCollection({
         .optional(),
       description: z.string(),
       fileName: z.string(),
-      customDuration: z.string(),
+      customDuration: z.string().optional(),
       canonicalURL: z.string().optional(),
     }),
 });

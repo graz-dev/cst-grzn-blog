@@ -9,7 +9,7 @@ export interface Props {
 }
 
 export default function Card({ href, frontmatter, secHeading = true }: Props) {
-  const { title, pubDatetime, description, fileName, customDuration } =
+  const { title, pubDatetime, description, fileName, customDuration, format } =
     frontmatter;
 
   const headerProps = {
@@ -20,7 +20,10 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
   return (
     <li className="my-6">
       <a
-        href={href}
+        target={frontmatter.externalUrl !== undefined ? "_blank" : "_self"}
+        href={
+          frontmatter.externalUrl !== undefined ? frontmatter.externalUrl : href
+        }
         className="inline-block text-lg font-medium text-skin-accent decoration-dashed underline-offset-4 focus-visible:no-underline focus-visible:underline-offset-0"
       >
         {secHeading ? (
@@ -33,6 +36,7 @@ export default function Card({ href, frontmatter, secHeading = true }: Props) {
         datetime={pubDatetime}
         fileName={fileName}
         customDuration={customDuration}
+        format={format}
       />
       <p>{description}</p>
     </li>
