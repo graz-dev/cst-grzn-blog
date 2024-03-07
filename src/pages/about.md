@@ -3,17 +3,18 @@ layout: ../layouts/AboutLayout.astro
 title: "About me"
 ---
 
-<div style="display: flex; flex-direction: column; align-items: center;">
-  <!--<img src="/assets/me.png" class="sm:w-1/2 mx-auto" alt="Graziano">-->
-  <p style="width: 100%"> 
-    I'm a Technical Product Expert in the <strong> Developer Relations </strong> team at <strong> Mia-Platform</strong>. <br> I've been in software development and innovation field since 2019, holding roles as a <strong> Software Engineer </strong> and <strong> Product Owner</strong>.
-  </p>
+<div class="section" style="display: flex; align-items: center; justify-content: space-between; padding: 20px;">
+    <img src="/assets/me.png" alt="Image" style="max-width: 50%; height: auto; margin-right: 20px;">
+    <div class="description" style="max-width: 50%; padding-left: 1%;">
+        <h2 style="font-size: 20px; margin-bottom: 10px;">Ciao! Who am I?</h2>
+        <p style="font-size: 16px; line-height: 1.5;">I'm a Technical Product Expert in the <strong> Developer Relations </strong> team at <strong> Mia-Platform</strong>. <br> I've been in software development and innovation field since 2019, holding roles as a <strong> Software Engineer </strong> and <strong> Product Owner</strong>.</p>
+    </div>
 </div>
 
 ## Professional Experience
 
 <div style="display: flex; flex-direction: column;">
-  <p style="width: 100%"> <strong>  → 06/ 2023 - Current  </strong><br> Developer Relations @ <a href="https://mia-platform.eu/" target="_blank">Mia-Platform</a> <br> Milano, Italy </p>  
+  <p style="width: 100%"> <strong>  → 06/2023 - Current  </strong><br> Developer Relations @ <a href="https://mia-platform.eu/" target="_blank">Mia-Platform</a> <br> Milano, Italy </p>  
   <p style="width: 100%;" > 
     I'm currently in the field of developer relations covering the role of Technical Product Expert. <br> 
     My responsibilities span from creating and reviewing content related to the company's software products to maintaining technical documentation. <br> Additionally, I lead the internal and partner training, overseeing the company's academy platform.
