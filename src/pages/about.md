@@ -23,13 +23,14 @@ title: "About me"
     </div>
 </div>
 
-<!--<div class="section" style="display: flex; justify-content: space-between;">
-    <p style="width: 100%"> <strong>  03/2024 - Current  </strong><br> Public Speaking <br> Planet Earth </p>
+<div class="section" style="display: flex; justify-content: space-between;">
+    <p style="width: 50%"> <strong>  03/2024 - Current  </strong><br> Public Speaking <br> Planet Earth </p>
     <div class="description" style="max-width: 50%; padding-left: 1%;">
       <h4> ITALY </h4>
-        <p style="width: 100%; align-items:left;"> Open Source Day 2024 - Practical policy-as-code with OPA & Rönd</p>
+        <p style="width: 100%; align-items:left;"> <a href="/posts/practical-pac-with-opa-and-rond"> [Open Source Day 2024] - Practical policy-as-code with OPA & Rönd </a>
+        </p>
     </div>
-</div>-->
+</div>
 
 <div class="section" style="display: flex; justify-content: space-between;">
     <p style="width: 100%"> <strong> 07/2021 - 06/2023  </strong><br> Technical Product Owner @ <a  href="https://huko.it/" target="_blank">HUKO</a> <br> Brescia, Italy </p>   

@@ -10,7 +10,7 @@ tags:
   - SECURITY
 description: "In the traditional policy enforcement model, manual management leaves organizations vulnerable to inevitable breaches due to human error – a matter of 'when', not 'if'. Enter Policy-as-Code (PaC), a game-changing approach that leverages code to define and manage policies, transforming rules and conditions into actionable directives. In this session we delve into the practical implementation of a Policy-as-Code strategy for your organization using Rönd and Open Policy Agent."
 fileName: "20240308_practical-pac-with-opa-and-rond"
-customDuration: ""
+customDuration: "40 min watch"
 ogImage: "/assets/20231201-1.png"
 ---
 
@@ -23,3 +23,5 @@ ogImage: "/assets/20231201-1.png"
 <a href ="/assets/practical-pac-with-rond-and-opa.pdf" attributes-list download > Download slides here! </a>
 
 The cloud-native landscape brings incredible advantages, but it also introduces new security challenges, making safeguarding a top priority. In the traditional policy enforcement model, manual management leaves organizations vulnerable to inevitable breaches due to human error – a matter of 'when,' not 'if.' Enter Policy-as-Code (PaC), a game-changing approach that leverages code to define and manage policies, transforming rules and conditions into actionable directives. By keeping policy definitions in source code control, whenever a change is made, it can be tested, validated, and then executed. The goal of PaC is not to detect policy violations but to prevent them. In this session we delve into the practical implementation of a Policy-as-Code strategy for your organization using [Rönd](https://rond-authz.io/docs/) and [Open Policy Agent](https://www.openpolicyagent.org/docs/latest/), two powerful open-source projects that could help you to redefine your security paradigm.
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/Va6vIYCVxj0?si=lDVY5l6tyhL2PwLX&amp;start=6080" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
