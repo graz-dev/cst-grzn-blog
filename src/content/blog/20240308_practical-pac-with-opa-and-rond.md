@@ -5,18 +5,18 @@ title: "Practical policy-as-code with OPA and Rönd"
 format: "Talk"
 postSlug: practical-pac-with-opa-and-rond
 featured: true
-draft: true
+draft: false
 tags:
   - SECURITY
-description: "In the traditional policy enforcement model, manual management leaves organizations vulnerable to inevitable breaches due to human error – a matter of 'when,' not 'if.' Enter Policy-as-Code (PaC), a game-changing approach that leverages code to define and manage policies, transforming rules and conditions into actionable directives. In this session we delve into the practical implementation of a Policy-as-Code strategy for your organization using Rönd and Open Policy Agent."
+description: "In the traditional policy enforcement model, manual management leaves organizations vulnerable to inevitable breaches due to human error – a matter of 'when', not 'if'. Enter Policy-as-Code (PaC), a game-changing approach that leverages code to define and manage policies, transforming rules and conditions into actionable directives. In this session we delve into the practical implementation of a Policy-as-Code strategy for your organization using Rönd and Open Policy Agent."
 fileName: "20240308_practical-pac-with-opa-and-rond"
 customDuration: ""
 ogImage: "/assets/20231201-1.png"
 ---
 
-<object data="/assets/talk.pdf" type="application/pdf" width="100%" height="470px">
-    <embed src="/assets/talk.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/talk.pdf">Download PDF</a>.</p>
+<object data="/assets/practical-pac-with-rond-and-opa.pdf" type="application/pdf" width="100%" height="470px">
+    <embed src="/assets/practical-pac-with-rond-and-opa.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/assets/practical-pac-with-rond-and-opa.pdf">Download PDF</a>.</p>
     </embed>
 </object>
 
