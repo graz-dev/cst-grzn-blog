@@ -11,7 +11,7 @@ tags:
 description: "In the traditional policy enforcement model, manual management leaves organizations vulnerable to inevitable breaches due to human error – a matter of 'when', not 'if'. Enter Policy-as-Code (PaC), a game-changing approach that leverages code to define and manage policies, transforming rules and conditions into actionable directives. In this session we delve into the practical implementation of a Policy-as-Code strategy for your organization using Rönd and Open Policy Agent."
 fileName: "20240308_practical-pac-with-opa-and-rond"
 customDuration: "40 min watch"
-ogImage: "/assets/20231201-1.png"
+ogImage: "/assets/practical-pac-with-opa-and-rond.png"
 ---
 
 <object data="/assets/practical-pac-with-rond-and-opa.pdf" type="application/pdf" width="100%" height="470px">
