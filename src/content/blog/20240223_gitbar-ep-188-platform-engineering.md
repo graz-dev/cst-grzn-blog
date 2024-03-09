@@ -1,7 +1,7 @@
 ---
 author: Graziano Casto
 pubDatetime: 2024-02-23T19:00:00Z
-title: "Gitbar ep.188 - Platform Engineering"
+title: "Gitbar ep.188 | Platform Engineering"
 format: "Podcast"
 postSlug: gitbar-ep-188-platform-engineering
 featured: true

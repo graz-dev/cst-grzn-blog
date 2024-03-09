@@ -24,15 +24,6 @@ title: "About me"
 </div>
 
 <div class="section" style="display: flex; justify-content: space-between;">
-    <p style="width: 50%"> <strong>  03/2024 - Current  </strong><br> Public Speaking <br> Planet Earth </p>
-    <div class="description" style="max-width: 50%; padding-left: 1%;">
-      <h4> ITALY </h4>
-        <p style="width: 100%; align-items:left;"> <a href="/posts/practical-pac-with-opa-and-rond"> [Open Source Day 2024] - Practical policy-as-code with OPA & Rönd </a>
-        </p>
-    </div>
-</div>
-
-<div class="section" style="display: flex; justify-content: space-between;">
     <p style="width: 100%"> <strong> 07/2021 - 06/2023  </strong><br> Technical Product Owner @ <a  href="https://huko.it/" target="_blank">HUKO</a> <br> Brescia, Italy </p>   
     <div class="description" style="max-width: 50%; padding-left: 1%;">
      <p style="width: 100%;"> 
@@ -48,6 +39,16 @@ title: "About me"
    As a software engineer, I've designed and implemented software products for the retail industry, covering applications like Point of Sale systems and e-commerce platforms. <br> I was in charge of both frontend and backend development being accountable of the whole software life cycle: from requirement analysis to production deployment.
   </p>
     </div>
+</div>
+
+## Public Speaking
+
+<div style="display: flex;">
+  <p style="width: 100%"> <strong> → 03/2024 | Open Source Day 2024  </strong> <br>Florence, Italy <br> <a target="_blank" href="/posts/practical-pac-with-opa-and-rond"> Practical policy-as-code with Open Policy Agent and Rönd </a></p>  
+</div>
+
+<div style="display: flex;">
+  <p style="width: 100%"> <strong> → 02/2024 | Gitbar Podcast  </strong> <br> Remote <br> <a target="_blank" href="/posts/gitbar-ep-188-platform-engineering"> Ep.188 - Platform Engineering </a></p>  
 </div>
 
 ## Education
