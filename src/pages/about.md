@@ -48,7 +48,7 @@ title: "About me"
 </div>
 
 <div style="display: flex;">
-  <p style="width: 100%"> <strong> → 02/2024 | Gitbar Podcast  </strong> <br> Remote <br> <a target="_blank" href="/posts/gitbar-ep-188-platform-engineering"> Ep.188 - Platform Engineering </a></p>  
+  <p style="width: 100%"> <strong> → 02/2024 | Gitbar Podcast  </strong> <br> Online <br> <a target="_blank" href="/posts/gitbar-ep-188-platform-engineering"> Ep.188 - Platform Engineering </a></p>  
 </div>
 
 ## Education

@@ -10,7 +10,7 @@ tags:
   - PLATFORM ENGINEERING
 description: "In recent times, the term Platform Engineering has gained increasing attention. But what exactly does this term mean? In this episode, we will delve deep into this new methodology, examining its key aspects."
 fileName: "20240223_gitbar-ep-188-platform-engineering"
-customDuration: "2 hours 38 min watch"
+customDuration: "2 h 38 min watch"
 ogImage: "/assets/20231203-1.png"
 ---
 
