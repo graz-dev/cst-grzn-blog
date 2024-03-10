@@ -44,11 +44,11 @@ title: "About me"
 ## Public Speaking
 
 <div style="display: flex;">
-  <p style="width: 100%"> <strong> → 03/2024 | Open Source Day 2024  </strong> <br>Florence, Italy <br> <a target="_blank" href="/posts/practical-pac-with-opa-and-rond"> Practical policy-as-code with Open Policy Agent and Rönd </a></p>  
+  <p style="width: 100%"> <strong> → 03/2024 | Open Source Day 2024  </strong> <br>Florence, Italy <br> <a target="_blank" href="https://www.youtube.com/live/Va6vIYCVxj0?si=UT_yca8F42vUFGbQ&t=6080"> Practical policy-as-code with Open Policy Agent and Rönd </a></p>  
 </div>
 
 <div style="display: flex;">
-  <p style="width: 100%"> <strong> → 02/2024 | Gitbar Podcast  </strong> <br> Online <br> <a target="_blank" href="/posts/gitbar-ep-188-platform-engineering"> Ep.188 - Platform Engineering </a></p>  
+  <p style="width: 100%"> <strong> → 02/2024 | Gitbar Podcast  </strong> <br> Online <br> <a target="_blank" href="https://youtu.be/wt8XvQg-3FA?si=fTI2_2oAr_ejzuTr"> Ep.188 - Platform Engineering </a></p>  
 </div>
 
 ## Education
