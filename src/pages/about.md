@@ -3,13 +3,11 @@ layout: ../layouts/AboutLayout.astro
 title: "About me"
 ---
 
-<div class="section" style="display: flex; align-items: center; justify-content: space-between;">
-    <img src="/assets/me.png" alt="Image" style="max-width: 50%; height: auto; margin-right: 20px;">
-    <div class="description" style="max-width: 50%; padding-left: 1%;">
-        <h2 style="font-size: 20px; margin-bottom: 10px;">Ciao! Who am I?</h2>
-        <p style="font-size: 16px; line-height: 1.5;">I'm a Technical Product Expert in the <strong> Developer Relations </strong> team at <strong> Mia-Platform</strong>. <br> I've been in software development and innovation field since 2019, holding roles as a <strong> Software Engineer </strong> and <strong> Product Owner</strong>.</p>
-    </div>
-</div>
+<img src="/assets/me-1.png" alt="Me" style="max-width: 50%; height: auto;">
+
+## Who am I?
+
+> ##### I am a seasoned professional with a background in software engineering and product management. With experience spanning from designing and implementing software solutions for the retail industry to leading agile practices adoption and fostering developer relations, I succeed in bridging technical expertise with strategic vision. Currently, I focus on evangelism for cutting-edge products, serving as a liaison between users and R&D teams while actively engaging with developer communities worldwide.
 
 ## Professional Experience
 
@@ -23,7 +21,7 @@ title: "About me"
 
 > #### [2021-07 | 2023-06] Technical Product Owner @ [Huko](https://huko.it/)
 >
-> ##### After working as a Software Engineer, I moved to the role of Technical Product Expert within the same team. My responsibilities shifted from technical implementation to team guidance and product management. I led the company's adoption of agile practices, facilitated the onboarding of new developers, and took accountability for the product roadmap. Additionally, I managed stakeholder and customer relationships, directly reporting to the company directors.
+> ##### After working as a Software Engineer, I moved to the role of Technical Product Owner within the same team. My responsibilities shifted from technical implementation to team guidance and product management. I led the company's adoption of agile practices, facilitated the onboarding of new developers, and took accountability for the product roadmap. Additionally, I managed stakeholder and customer relationships, directly reporting to the company directors.
 >
 > #### #TEAM_LEADERSHIP #PRODUCT_MANAGEMENT #AGILE_PRACTICES #STAKEHOLDERS_MANAGEMENT
 
