@@ -8,6 +8,8 @@ title: "About me"
 ## Who am I?
 
 > ##### I am a seasoned professional with a background in software engineering and product management. With experience spanning from designing and implementing software solutions for the retail industry to leading agile practices adoption and fostering developer relations, I succeed in bridging technical expertise with strategic vision. Currently, I focus on evangelism for cutting-edge products, serving as a liaison between users and R&D teams while actively engaging with developer communities worldwide.
+>
+> ##### [↓ Download my resume!](/assets/Graziano Casto - resume.pdf)
 
 ## Professional Experience
 
