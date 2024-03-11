@@ -13,54 +13,36 @@ title: "About me"
 
 ## Professional Experience
 
-<div class="section" style="display: flex; justify-content: space-between;">
-    <p style="width: 100%"> <strong>  06/2023 - Current  </strong><br> Developer Relations @ <a href="https://mia-platform.eu/" target="_blank">Mia-Platform</a> <br> Milano, Italy </p> 
-    <div class="description" style="max-width: 50%; padding-left: 1%;">
-       <p style="width: 100%;" > 
-    I'm currently in the field of developer relations covering the role of Technical Product Expert. <br> 
-    My responsibilities span from creating and reviewing content related to the company's software products to maintaining technical documentation. <br> Additionally, I lead the internal and partner training, overseeing the company's academy platform.
-  </p>
-    </div>
-</div>
+> #### [2023-06 | Current] Developer Relations @ [Mia-Platform](https://mia-platform.eu/)
+>
+> ##### Currently, as a Developer Relations Expert, I focus on content creation and evangelism for our company's product. My responsibilities span from managing the training program we offer to partner developers mastering our internal developer platform and company products, to creating content for product pitches, and managing technical documentation. Additionally, I serve as the bridge between the users of our products and our R&D team, engaging in building relationships with developer communities and participating as a speaker at technical conferences, discussing topics such as open source, cloud-native, and platform engineering.
+>
+> #### #COMMUNITIES_MANAGEMENT #PUBLIC_SPEAKING #CONTENT_MANAGEMENT #DEVELOPER_EXPERIECE
 
-<div class="section" style="display: flex; justify-content: space-between;">
-    <p style="width: 100%"> <strong> 07/2021 - 06/2023  </strong><br> Technical Product Owner @ <a  href="https://huko.it/" target="_blank">HUKO</a> <br> Brescia, Italy </p>   
-    <div class="description" style="max-width: 50%; padding-left: 1%;">
-     <p style="width: 100%;"> 
-    After working as a Software Engineer, I moved to the role of Technical Product Owner within the same team. <br> My esponsibilities shifted from technical implementation to the team guidance and the product management.  <br> I led the Agile transformation of the company, facilitated the onboarding of new developers, and took accountability for the Product Roadmap. Additionally, I managed stakeholder relationships, directly reporting to the company directors.
-  </p>
-    </div>
-</div>
+---
 
-<div class="section" style="display: flex; justify-content: space-between;">
-   <p style="width: 100%"> <strong> → 06/2019 - 07/2021   </strong><br> Software Engineer @ <a  href="https://huko.it/" target="_blank">HUKO</a> <br> Brescia, Italy </p>  
-    <div class="description" style="max-width: 50%; padding-left: 1%;">
-      <p style="width: 100%;"> 
-   As a software engineer, I've designed and implemented software products for the retail industry, covering applications like Point of Sale systems and e-commerce platforms. <br> I was in charge of both frontend and backend development being accountable of the whole software life cycle: from requirement analysis to production deployment.
-  </p>
-    </div>
-</div>
+> #### [2021-07 | 2023-06] Technical Product Owner @ [Huko](https://huko.it/)
+>
+> ##### After working as a Software Engineer, I moved to the role of Technical Product Expert within the same team. My responsibilities shifted from technical implementation to team guidance and product management. I led the company's adoption of agile practices, facilitated the onboarding of new developers, and took accountability for the product roadmap. Additionally, I managed stakeholder and customer relationships, directly reporting to the company directors.
+>
+> #### #TEAM_LEADERSHIP #PRODUCT_MANAGEMENT #AGILE_PRACTICES #STAKEHOLDERS_MANAGEMENT
+
+---
+
+> #### [2019-06 | 2021-07] Software Engineer @ [Huko](https://huko.it/)
+>
+> ##### As a software engineer, I was in charge of designing and implementing software products for the retail industry, covering applications such as PoS (point of sale) systems and e-commerce platforms. I was responsible for both frontend and backend development, being accountable for the entire software lifecycle: from requirement analysis to production deployment.
+>
+> #### #ARCHITECTURE_DESIGN #FRONTEND_DEVELOPMENT #BACKEND_DEVELOPMENT #MOBILE_DEVELOPMENT
 
 ## Public Speaking
 
-<div style="display: flex;">
-  <p style="width: 100%"> <strong> → 03/2024 | Open Source Day 2024  </strong> <br>Florence, Italy <br> <a target="_blank" href="https://www.youtube.com/live/Va6vIYCVxj0?si=UT_yca8F42vUFGbQ&t=6080"> Practical policy-as-code with Open Policy Agent and Rönd </a></p>  
-</div>
-
-<div style="display: flex;">
-  <p style="width: 100%"> <strong> → 02/2024 | Gitbar Podcast  </strong> <br> Online <br> <a target="_blank" href="https://youtu.be/wt8XvQg-3FA?si=fTI2_2oAr_ejzuTr"> Ep.188 - Platform Engineering </a></p>  
-</div>
+> #### - [2024-03] OSDay 2024 Florence - [Practical policy-as-code with Open Policy Agent and Rönd](https://www.youtube.com/live/Va6vIYCVxj0?si=UT_yca8F42vUFGbQ&t=6080)
+>
+> #### - [2024-02] Gitbar Podcast - [Platform Engineering](https://youtu.be/wt8XvQg-3FA?si=fTI2_2oAr_ejzuTr)
 
 ## Education
 
-<div style="display: flex;">
-  <p style="width: 100%"> <strong> → 05/2023 </strong><br> Professional Scrum Product Owner (PSPO I) <br> Scrum.org <br> <a target="_blank" href="https://www.credly.com/badges/224d95ae-d5ea-4d26-9b12-9b1bd3543ff2"> Certificate ID </a></p>  
-</div>
-
-<div style="display: flex;">
-  <p style="width: 100%"> <strong> → 07/2023 </strong><br> Developer Fundamentals Certification <br> Mia-Platform <br> <a target="_blank" href="https://www.linkedin.com/company/mia-platform/mycompany/"> Certificate ID: C72 </a></p>  
-</div>
-
-<div style="display: flex;">
-  <p style="width: 100%"> <strong> → 01/2024 </strong><br> Developer Professional Certification <br> Mia-Platform <br> <a target="_blank" href="https://www.linkedin.com/company/mia-platform/mycompany/"> Certificate ID: C115 </a></p>  
-</div>
+> #### [2023-05] Professional Scrum Product Owner (PSPO I) by Scrum.org
+>
+> ##### [Certificate ID](https://www.credly.com/badges/224d95ae-d5ea-4d26-9b12-9b1bd3543ff2/public_url)
