@@ -3,7 +3,33 @@ layout: ../layouts/AboutLayout.astro
 title: "About me"
 ---
 
-<img src="/assets/me-1.png" alt="Me" style="max-width: 50%; height: auto;">
+<script>
+    function changeImageBasedOnTheme(previousTheme) {
+    var imageElement = document.getElementById("pic-of-me");
+    var imagePath;
+
+    switch (previousTheme) {
+      case "light":
+        console.log(theme);
+        imagePath = "/assets/me-dark.png";
+        break;
+      case "dark":
+        console.log(theme);
+        imagePath = "/assets/me-light.png";
+        break;
+      default:
+        imagePath = "/assets/me-light.png";
+        break;
+    }
+    imageElement.src = imagePath;
+  }
+  
+  changeImageBasedOnTheme(
+        document.firstElementChild.getAttribute("data-theme")
+   );
+</script>
+
+<img id="pic-of-me" src="/assets/me-light.png" alt="Me" style="max-width: 50%; height: auto;">
 
 ## Who am I?
 

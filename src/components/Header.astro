@@ -207,6 +207,37 @@ const { activeNav } = Astro.props;
     });
   }
 
+  function changeImageBasedOnTheme(previousTheme: string | null) {
+    var imageElement: HTMLElement = document.getElementById("pic-of-me");
+    var imagePath;
+
+    switch (previousTheme) {
+      case "light":
+        imagePath = "/assets/me-dark.png";
+        break;
+      case "dark":
+        imagePath = "/assets/me-light.png";
+        break;
+      default:
+        imagePath = "/assets/me-light.png";
+        break;
+    }
+    imageElement.src = imagePath;
+  }
+
+  function handleProfileImage() {
+    // Toggle menu
+    const themeBtn = document.getElementById("theme-btn");
+
+    themeBtn?.addEventListener("click", () => {
+      changeImageBasedOnTheme(
+        document.firstElementChild.getAttribute("data-theme")
+      );
+    });
+  }
+
+  handleProfileImage();
+
   toggleNav();
 
   // Runs on view transitions navigation

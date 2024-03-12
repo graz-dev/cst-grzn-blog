@@ -5,19 +5,19 @@ title: "The fundamental missing points in evaluating engineering productivity"
 format: "Article"
 postSlug: fundamental-missing-points-in-evaluating-engineering-productivity
 featured: true
-draft: true
+draft: false
 tags:
   - DEVEX
 description: "Measuring someone's productivity in the execution of a specific task is of fundamental importance for optimizing the activity itself. Productivity has always been considered in quantitative terms since the early theories of Scientific Management in 1911, but in the era of 'Knowledge Workers', these paradigms must necessarily evolve.
 Let's explore the aspects to consider when evaluating the developers' performance in this new productive context."
 fileName: "20231218_fundamental-missing-points-in-evaluating-engineering-productivity"
 customDuration: ""
-ogImage: "/assets/20231218-1.png"
+ogImage: "/assets/fundamental-missing-points-in-evaluating-engineering-productivity.png"
 ---
 
 > ### TL;DR
 >
-> Challenging traditional productivity metrics in software development, I highlight the complexities posed by the creative and human-centric nature of the field. Drawing on the limitations of Scientific Management principles, I argue for a shift towards qualitative metrics that consider the multifaceted aspects of productivity in this dynamic domain, ultimately advocating for a holistic approach that values creativity and humanity over rigid quantitative measurements.
+> ##### Challenging traditional productivity metrics in software development, I highlight the complexities posed by the creative and human-centric nature of the field. Drawing on the limitations of Scientific Management principles, I argue for a shift towards qualitative metrics that consider the multifaceted aspects of productivity in this dynamic domain, ultimately advocating for a holistic approach that values creativity and humanity over rigid quantitative measurements.
 
 Often, adopting a tool or framework leads to the expectation of assessing a single metric indicating whether our team's productivity has increased or decreased. Unfortunately, it's not that simple; software engineering is an extremely complex and uncertain activity. The entire discussion around developers' productivity can be summarized by two main points that differentiate software development activity from all others.
 
