@@ -5,7 +5,7 @@ title: "The fundamental missing points in evaluating engineering productivity"
 format: "Article"
 postSlug: fundamental-missing-points-in-evaluating-engineering-productivity
 featured: true
-draft: false
+draft: true
 tags:
   - DEVEX
 description: "Measuring someone's productivity in the execution of a specific task is of fundamental importance for optimizing the activity itself. Productivity has always been considered in quantitative terms since the early theories of Scientific Management in 1911, but in the era of 'Knowledge Workers', these paradigms must necessarily evolve.
